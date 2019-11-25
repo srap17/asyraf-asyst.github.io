@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574669180309.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2601554180",
+    "id" : "71121B87",
+    "lastKnownWriteTime" : 1574669268,
+    "last_content_update" : 1574669266503,
+    "path" : "H:/srap17/srap17.github.io/optSchMaint.Rmd",
+    "project_path" : "optSchMaint.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,6",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

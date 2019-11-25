@@ -6,7 +6,7 @@ navbar:
     - text: "Prototype"
       menu:
       - text: "Maintenance Schedule"
-        href: scheduledMaintenance.html
+        href: optSchMaint.html
       - text: "Crew Schedule"
         href: scheduleCrew.html
   right:
