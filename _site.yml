@@ -1,19 +1,21 @@
 name: "main_menu"
 output_dir: "."
 navbar:
-  title: "ASYST Prototype Server"
+  title: "***** Prototype Server"
   left:
     - text: "Prototype"
-      href: prototype.html
-    - text: "About Us"
-      href: about.html
+      menu:
+      - text: "Maintenance Schedule"
+        href: scheduledMaintenance.html
+      - text: "Crew Schedule"
+        href: scheduleCrew.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-github fa-lg
       href: http://github.com/srap17
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/company/pt.-aero-systems-indonesia/
+      href: https://www.linkedin.com/in/srap17
 output:
   html_document:
     theme: paper
