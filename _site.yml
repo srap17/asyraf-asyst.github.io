@@ -1,0 +1,20 @@
+name: "main_menu"
+output_dir: "."
+navbar:
+  title: "ASYST Prototype Server"
+  left:
+    - text: "Prototype"
+      href: prototype.html
+    - text: "About Us"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/srap17
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/company/pt.-aero-systems-indonesia/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
